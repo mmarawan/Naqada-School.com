@@ -64,6 +64,7 @@
     background-position: center;
     background-size: cover;
     position: relative;
+    background-attachment: fixed;
 }
 .header-sumbit{
     min-height: 100vh;

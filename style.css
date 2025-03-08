@@ -1,7 +1,11 @@
+@font-face {
+    font-family: main;
+    src: url('Fonts/Font.woff2') format('woff2');
+}
 *{
     margin: 0;
     padding: 0;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'main';
     scroll-behavior: smooth;
 }
 ::-webkit-scrollbar{
